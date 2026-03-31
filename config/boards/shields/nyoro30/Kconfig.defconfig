@@ -1,7 +1,7 @@
-if SHIELD_nyoro30
-
-config ZMK_KEYBOARD_NAME
-    default "nyoro30"
-
-
+if SHIELD_NYORO30
+  config ZMK_KEYBOARD_NAME
+  default "nyoro30"
 endif
+
+config SPI
+    default y
