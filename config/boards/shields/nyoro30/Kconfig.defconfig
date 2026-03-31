@@ -1,0 +1,7 @@
+if SHIELD_nyoro30
+
+config ZMK_KEYBOARD_NAME
+    default "nyoro30"
+
+
+endif
