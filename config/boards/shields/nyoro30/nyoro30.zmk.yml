@@ -1,0 +1,8 @@
+file_format: "1"
+id: nyoro30
+name: nyoro30
+type: shield
+url: https://github.com/kureyakey/zmk-config-nyoro30
+requires: [seeeduino_xiao_ble]
+features:
+  - keys
